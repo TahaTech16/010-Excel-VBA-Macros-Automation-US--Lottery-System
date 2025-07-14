@@ -1,0 +1,18 @@
+### **Project Title:**
+
+**010 – Excel VBA Macros Automation (US) – Lottery System Based on Card and Data**
+
+### **Description:**
+
+Built an automated **lottery system** in Excel using VBA tailored for U.S.-based requirements. The system was designed to:
+
+* Generate lottery results dynamically based on **input cards** and **predefined data sets**
+* Use Excel VBA to simulate **randomized draws** with logic-driven constraints
+* Validate and match card entries with drawn numbers to identify winners
+* Provide automated summary reports showing **winning cards, prize tiers, and statistics**
+* Include interactive features such as **reset, new draw, and card upload options**
+* Ensure fairness and accuracy using randomized seed logic and controlled calculations
+
+**Objective:**
+To automate the lottery draw and winner identification process, reducing manual tracking, ensuring fairness, and delivering clear reports to stakeholders.
+
